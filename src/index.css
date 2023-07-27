@@ -31,10 +31,10 @@ img {
 
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:200');
 body  {
-  background-image: url('https://topclub.ua/uploads/images/places/Blq9Hs8-pQd4sn2UqjBHN-4UXrO2LBJ8.jpg');
+  background-image: url('https://img.tsn.ua/cached/893/tsn-84ee4f9844c21d3af2b3cfbad2c9c711/thumbs/1116x628/59/27/34356fb5eb5063234544b67804a62759.jpeg');
 background-size:cover;
-      -webkit-animation: slidein 100s;
-      animation: slidein 100s;
+      -webkit-animation: slidein 200s;
+      animation: slidein 200s;
 
       -webkit-animation-fill-mode: forwards;
       animation-fill-mode: forwards;
