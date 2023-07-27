@@ -13,4 +13,7 @@
 .movieItem:focus {
     color: orange;
     cursor: pointer;
+    transform: translateY(-7px);
+    transition: transform .25s cubic-bezier(.4,0,.2,1);
+
 }
