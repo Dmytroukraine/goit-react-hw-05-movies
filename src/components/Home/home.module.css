@@ -11,7 +11,7 @@
 
 .movieItem:hover,
 .movieItem:focus {
-    color: orange;
+    color:  rgb(35, 174, 255);
     cursor: pointer;
     transform: translateY(-7px);
     transition: transform .25s cubic-bezier(.4,0,.2,1);

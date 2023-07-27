@@ -4,7 +4,11 @@
     align-items: center;
     width: 100%;
     height: 70px;
-    background-color: #392c2c;
+    background-color: #525050;
+    
+
+box-shadow:  22px 22px 43px #a4a4a4,
+             -22px -22px 43px #ffffff;
   }
   
   .navigation::before {

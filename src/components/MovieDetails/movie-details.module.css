@@ -19,12 +19,12 @@
     position: relative;
     display: inline-block;
     padding: 9px 9px 9px 25px;
-    color: orange;
+    color:  rgb(35, 174, 255);
     font-size: 16px;
     border: none;
     background-color: #fff;
     border-radius: 7px;
-    border: 1px solid orange;
+    border: 1px solid  rgb(35, 174, 255);
     margin: 20px 0 0 5px;
   }
   
@@ -55,7 +55,7 @@
   .castBtn {
     position: relative;
     padding: 9px;
-    background-color: orange;
+    background-color:  rgb(35, 174, 255);
     font-size: 16px;
     border: none;
     width: 110px;
@@ -74,14 +74,14 @@
   }
   
   .castBtn:hover {
-    background-color: rgb(255, 141, 2);
+    background-color:  rgb(35, 174, 255);
     cursor: pointer;
   }
   
   .reviewsBtn {
     position: relative;
     padding: 9px 9px 9px 25px;
-    background-color: orange;
+    background-color:  rgb(35, 174, 255);
     font-size: 16px;
     width: 110px;
     border: none;
@@ -102,7 +102,7 @@
   }
   
   .reviewsBtn:hover {
-    background-color: rgb(255, 141, 2);
+    background-color:  rgb(35, 174, 255);
     cursor: pointer;
   }
   

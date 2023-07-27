@@ -49,7 +49,7 @@
 
 .btn {
     padding: 11px;
-    background-color: orange;
+    background-color:  rgb(35, 174, 255);
     font-size: 16px;
     border: none;
     color: #fff;
@@ -59,7 +59,7 @@
 }
 
 .btn:hover {
-    background-color: rgb(255, 141, 2);
+    background-color:  rgb(35, 174, 255);
     cursor: pointer;
 }
 
@@ -89,6 +89,6 @@
 
 .listItem:hover,
 .listItem:focus {
-    color: orange;
+    color:  rgb(35, 174, 255);
     cursor: pointer;
 }

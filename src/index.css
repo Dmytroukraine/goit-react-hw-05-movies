@@ -18,11 +18,41 @@ code {
 
 a {
   text-decoration: none;
-  color: inherit;
+  color: #f8f0f0;
+  
   
 }
 
 img {
   display: block;
   width: 100%;
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:200');
+body  {
+  background-image: url('https://topclub.ua/uploads/images/places/Blq9Hs8-pQd4sn2UqjBHN-4UXrO2LBJ8.jpg');
+background-size:cover;
+      -webkit-animation: slidein 100s;
+      animation: slidein 100s;
+
+      -webkit-animation-fill-mode: forwards;
+      animation-fill-mode: forwards;
+
+      -webkit-animation-iteration-count: infinite;
+      animation-iteration-count: infinite;
+
+      -webkit-animation-direction: alternate;
+      animation-direction: alternate;              
+}
+
+@-webkit-keyframes slidein {
+from {background-position: top; background-size:3000px; }
+to {background-position: -100px 0px;background-size:2750px;}
+}
+
+@keyframes slidein {
+from {background-position: top;background-size:3000px; }
+to {background-position: -100px 0px;background-size:2750px;}
+
 }
