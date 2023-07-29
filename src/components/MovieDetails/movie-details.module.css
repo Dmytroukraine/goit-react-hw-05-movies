@@ -29,9 +29,9 @@
   }
   
   .btn:hover {
-    color: #272727;
+    color: #9b9b9b;
     cursor: pointer;
-    fill: #272727;
+    fill: #b4b4b4;
   }
   
   .btn::before {
